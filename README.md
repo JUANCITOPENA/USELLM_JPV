@@ -86,6 +86,10 @@ Ejecuta el siguiente comando en la terminal para iniciar la aplicación en modo 
 
 La aplicación se abrirá automáticamente en tu navegador en la dirección http://localhost:5173.
 
+### Link del Post sobre el Proyecto:
+
+https://advisertecnology.com/index.php/2023/07/10/revoluciona-tus-aplicaciones-con-usellm-el-poder-del-chat-inteligente-en-react/
+
 ### Imagenes del proyecto en Ejecucion:
 
 ### Prompt pidiendo que use el Lenguaje de Programacion Javascript para crear la tabla de multiplicar:
