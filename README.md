@@ -94,6 +94,10 @@ Inicio de la aplicación:
 
 Ejecuta el siguiente comando en la terminal para iniciar la aplicación en modo de desarrollo:
 
-n## pm start
+### pm start
 
 La aplicación se abrirá automáticamente en tu navegador en la dirección http://localhost:5173.
+
+### Imagenes del proyecto en Ejecucion:
+
+![](useLLM1.png)
