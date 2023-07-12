@@ -72,21 +72,9 @@ Copia y pega el código del componente App.jsx proporcionado anteriormente en el
 Importa las siguientes librerías en la parte superior del archivo App.jsx:
 
 
-import React, { useState, useEffect, useRef } from "react";
-import useLLM from "usellm";
-import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { darcula } from "react-syntax-highlighter/dist/esm/styles/prism";
-import "./App.css";
-
 Asegúrate de tener las siguientes importaciones en la parte superior del archivo App.jsx:
 
-
-import React, { useState, useEffect, useRef } from "react";
-import useLLM from "usellm";
-import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { darcula } from "react-syntax-highlighter/dist/esm/styles/prism";
-import "./App.css";
-Estilos CSS:
+### Estilos CSS:
 
 Abre el archivo App.css y agrega los estilos necesarios según tus preferencias para darle formato a la interfaz.
 
@@ -100,4 +88,18 @@ La aplicación se abrirá automáticamente en tu navegador en la dirección http
 
 ### Imagenes del proyecto en Ejecucion:
 
+### Prompt pidiendo que use el Lenguaje de Programacion Javascript para crear la tabla de multiplicar:
+
 ![](useLLM1.png)
+
+### Prompt pidiendo que cree un Poema de Amor, Generando Texto simple:
+
+![](useLLM2.png)
+
+### Prompt pidiendo que escriba una historia de Fantasia, Generando Texto simple:
+
+![](useLLM3.png)
+
+### Prompt pidiendo que use el Lenguaje de Programacion Python para crear la secuencia de fibonacci en python que pida el numero:
+
+![](useLLM4.png)
